@@ -1,8 +1,14 @@
 # 一个下午，把「BSC 打狗赚千万」传说拆成链上研究
 
-> 从一条 X 信息源开始，到 BscScan 数据、BSC receipt logs、Four.meme 事件解析、买入节点分桶，再到公开 GitHub Pages 报告。
+> 从一条 X 信息源开始，到 BscScan 数据、BSC receipt logs、Four.meme 事件解析、买入节点分桶，再到公开报告。
 
-线上报告：<https://hahahakang.github.io/bsc-fourmeme-analysis/>
+**当前推荐阅读入口：**
+
+<https://github.com/hahahakang/bsc-fourmeme-analysis>
+
+这份 README 就是完整文章版，图片、表格和数据文件都保留在仓库里。`github.io` Pages 链接仍然保留为网页样式版本，但如果当前网络会断开 `hahahakang.github.io` 连接，就直接用上面的 GitHub 仓库阅读入口。
+
+网页样式版本：<https://hahahakang.github.io/bsc-fourmeme-analysis/>
 
 ---
 
@@ -47,9 +53,13 @@
 6. 重建钱包在 Four.meme 上的买入、卖出、费用和 token 流向。
 7. 对每个 token 找出第一次买入时间和买入时 FDV。
 8. 按买入 FDV 分桶，观察哪个节点真正贡献利润。
-9. 生成 CSV、Excel 和可公开访问的 GitHub Pages 报告。
+9. 生成 CSV、Excel、GitHub 仓库阅读版和 GitHub Pages 网页报告。
 
-最终在线报告在这里：
+最终报告入口在这里：
+
+<https://github.com/hahahakang/bsc-fourmeme-analysis>
+
+如果你的网络可以正常访问 `github.io`，也可以打开网页样式版：
 
 <https://hahahakang.github.io/bsc-fourmeme-analysis/>
 
